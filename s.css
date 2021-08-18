@@ -1,0 +1,30 @@
+.heroImage{
+    float:right
+}
+.researchImg{
+    float:left
+}
+
+.userPersonaImg{
+    float:right
+}
+.problemStatement{
+    Float:left
+}
+.feature{
+    float:left
+}
+
+.cardsorting{
+    float:right
+}
+.prototypingImg{
+    float:left
+}
+.styleGuide{
+    float:right
+}
+.tag{
+    width: 100%;
+    height: auto;
+}
